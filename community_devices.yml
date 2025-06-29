@@ -10,9 +10,9 @@ xiaomi_marble:
     - adaptation-xiaomi-marble
     - adaptation-xiaomi-marble-configs
     - adaptation-xiaomi-marble-android
-    - linux-bootimage-5.10.209-xiaomi-marble
-    - linux-bootimage-common-5.10.209-xiaomi-marble
-    - linux-headers-5.10.209-xiaomi-marble
-    - linux-headers-common-5.10.209-xiaomi-marble
-    - linux-image-5.10.209-xiaomi-marble
-    - linux-image-common-5.10.209-xiaomi-marble
+    - linux-bootimage-5.10.226-xiaomi-marble
+    - linux-bootimage-common-5.10.226-xiaomi-marble
+    - linux-headers-5.10.226-xiaomi-marble
+    - linux-headers-common-5.10.226-xiaomi-marble
+    - linux-image-5.10.226-xiaomi-marble
+    - linux-image-common-5.10.226-xiaomi-marble
